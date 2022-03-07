@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo](src/mapvault_logo.jpg "banner")
+![logo](src/logo.jpg "banner")
 
 <!--
 **milos-agathon/milos-agathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
