@@ -12,7 +12,7 @@ According to NodeXL, I am a Top 10 dataviz and R contributor on Twitter
 <p>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=plastic"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic"/>
-  <img alt="R" src="https://img.shields.io/badge/Apache-Spark-E25A1C?logo=Apache-Spark&logoColor=white&style=plastic"/>
+  <img alt="R" src="https://img.shields.io/badge/ApacheSpark-E25A1C?logo=ApacheSpark&logoColor=white&style=plastic"/>
   
 
 </p>
