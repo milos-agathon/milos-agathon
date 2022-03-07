@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/src/logo.jpg" alt="banner" />
+<img src="/src/logo.jpg" alt="banner" align="center"/>
 
 <!--
 **milos-agathon/milos-agathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
