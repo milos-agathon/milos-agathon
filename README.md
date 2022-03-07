@@ -2,14 +2,16 @@
 
 <img src="/src/logo.jpg" alt="banner" align="center"/>
 
-### Hi, I'm Milos and and welcome to my GitHub page!
+### Hi, I'm Milos, welcome to my GitHub page!
 
 I am a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam.
 I use R to create maps that make sense of big data. My portfolio includes over 300 maps! 
 According to NodeXL, I am a Top 10 dataviz and R contributor on Twitter
 
+### What do I use in my work?
 <p>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge&style=plastic" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge&style=plastic"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=r&logoColor=white&style=for-the-badge&style=plastic"/>
   
 
 </p>
