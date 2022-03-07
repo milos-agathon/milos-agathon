@@ -9,7 +9,7 @@ I use R to create maps that make sense of big data. My portfolio includes over 3
 According to NodeXL, I am a Top 10 dataviz and R contributor on Twitter
 
 <p>
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+  <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge&style=plastic" />
   
 
 </p>
