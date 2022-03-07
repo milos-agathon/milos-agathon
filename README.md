@@ -12,6 +12,8 @@ According to NodeXL, I am a Top 10 dataviz and R contributor on Twitter
 <p>
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=plastic"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic"/>
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white&style=plastic"/>
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache Spark-E25A1C?logo=ApacheSpark&logoColor=white&style=plastic"/>
   <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache Hadoop-66CCFF?logo=ApacheHadoop&logoColor=white&style=plastic"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=plastic"/>
