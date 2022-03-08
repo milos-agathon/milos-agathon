@@ -42,6 +42,12 @@ I'm open for new projects and collaborations, so feel free to send me a message!
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://www.facebook.com/mapvault">
+  <img
+    alt="Facebook"
+    src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
+  />
+</a>
 </a>
 
 <!--
