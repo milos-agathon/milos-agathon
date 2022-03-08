@@ -28,24 +28,24 @@ I'm open for new projects and collaborations, so feel free to send me a message!
 <a href="https://www.linkedin.com/in/milos-popovic-phd-89778117/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=plastic"
   />
 <a href="https://twitter.com/milos_agathon">
   <img
     alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic"
   />
 </a>
 <a href="https://www.instagram.com/mapvault/">
   <img
     alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic"
   />
 </a>
 <a href="https://www.facebook.com/mapvault">
   <img
     alt="Facebook"
-    src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=plastic"
   />
 </a>
 </a>
