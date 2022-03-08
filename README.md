@@ -6,7 +6,7 @@
 
 I am a leading data visualization specialist on Twitter and a Data Analyst at Booking.com in Amsterdam.
 I use R to create maps that make sense of big data. My portfolio includes over 300 maps! 
-According to NodeXL, I am a Top 10 dataviz and R contributor on Twitter
+According to NodeXL, I am among the Top 10 dataviz and R contributor on Twitter
 
 ### What do I use in my work?
 <p>
