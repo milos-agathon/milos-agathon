@@ -50,6 +50,8 @@ I'm open for new projects and collaborations, so feel free to send me a message!
 </a>
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=milos-agathon" />
+
 <!--
 **milos-agathon/milos-agathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
