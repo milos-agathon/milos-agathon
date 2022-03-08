@@ -22,6 +22,7 @@ According to NodeXL, I am among the Top 10 dataviz and R contributor on Twitter
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-FF9800?logo=SublimeText&logoColor=white&style=plastic" height="25"/>
 </p>
 
+### Below is the sample of my most popular maps
 [<img alt="alt_text" width="600px" src="https://github.com/milos-agathon/milos-agathon/blob/main/img/maps.png" />](https://milospopovic.net/maps/)
 
 ### Send me a message!
