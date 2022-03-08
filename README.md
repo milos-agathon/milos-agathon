@@ -55,7 +55,7 @@ I'm open for new projects and collaborations, so feel free to send me a message!
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=milos-agathon"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=milos-agathon"
 />
 
 <!--
