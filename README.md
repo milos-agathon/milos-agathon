@@ -22,14 +22,14 @@ According to NodeXL, I am among the Top 10 dataviz and R contributor on Twitter
   <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime Text-FF9800?logo=SublimeText&logoColor=white&style=plastic" height="25"/>
 </p>
 
-### Sharing is caring: This is where I store my tutorials on data analysis and geospatial analysis with R
+### Sharing is caring: Check out my tutorials on data/geospatial analysis with R 👇🏻
 
 [<img alt="alt_text" width="600px" src="https://github.com/milos-agathon/milos-agathon/blob/main/img/blog.jpg" />](https://milospopovic.net/blog/)
 
-### Below is the sample of my most popular maps
+### Take a look at the sample of my most popular maps 👇🏻
 [<img alt="alt_text" width="600px" src="https://github.com/milos-agathon/milos-agathon/blob/main/img/maps.jpg" />](https://milospopovic.net/maps/)
 
-### Send me a message!
+### Let's connect! 🖇
 I'm open for new projects and collaborations, so feel free to send me a message! Here is where you can find me:
 
 <a href="https://www.linkedin.com/in/milos-popovic-phd-89778117/">
