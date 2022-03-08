@@ -51,7 +51,7 @@ I'm open for new projects and collaborations, so feel free to send me a message!
 </a>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=milos-agathon&count_private=true&title_color=687476&icon_color=687476&text_color=687476&custom_title=Milos's+GitHub+Stats&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=milos-agathon&count_private=true&title_color=5a6668&icon_color=5a6668&text_color=5a6668&custom_title=Milos'+GitHub+Stats&show_icons=true"
 />
 
 <!--
